@@ -1,0 +1,1 @@
+{"dependencies":{"socket.io":"^4.8.1"},"description":"The Old Zoo Mystery — multiplayer zoo mystery party game, zero-API","main":"server/index.js","name":"old-zoo-mystery","scripts":{"dev":"node --watch server/index.js","start":"node server/index.js"},"type":"module","version":"0.1.0"}
